@@ -104,7 +104,7 @@
             "last_commit": "2026-02-06T02:27:53Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 12926
+            "stars": 12928
           }
         },
         {
@@ -1382,10 +1382,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:29:14.502Z",
+    "last_updated": "2026-02-08T04:37:23.800Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome JMeter with stars"
   }
 }

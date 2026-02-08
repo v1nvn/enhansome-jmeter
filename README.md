@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,652 | 🐛 67 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,878 | 🐛 68 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -128,7 +128,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,926 | 🐛 44 | 🌐 Java | 📅 2026-02-06 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,928 | 🐛 44 | 🌐 Java | 📅 2026-02-06 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 413 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
