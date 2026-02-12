@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 436,589 | 🐛 68 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 436,833 | 🐛 67 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,222 | 🐛 940 | 🌐 Java | 📅 2026-01-12 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,224 | 🐛 940 | 🌐 Java | 📅 2026-01-12 - Apache JMeter source code repository.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
@@ -116,7 +116,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### DSL
 
-* [pymeter](https://github.com/eldaduzman/pymeter) ⭐ 143 | 🐛 6 | 🌐 Python | 📅 2023-12-05 - Simple JMeter performance tests API for Python.
+* [pymeter](https://github.com/eldaduzman/pymeter) ⭐ 142 | 🐛 6 | 🌐 Python | 📅 2023-12-05 - Simple JMeter performance tests API for Python.
 * [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) ⭐ 39 | 🐛 17 | 🌐 Java | 📅 2026-02-01 - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 * [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) ⭐ 14 | 🐛 2 | 🌐 Groovy | 📅 2024-05-30 - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 * [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple Java API to run JMeter performance tests in an VCS and programmers friendly way.
@@ -128,7 +128,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,937 | 🐛 44 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,940 | 🐛 43 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 414 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -138,7 +138,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 * [postman2jmx](https://github.com/Loadium/postman2jmx) ⭐ 190 | 🐛 15 | 🌐 Java | 📅 2023-10-15 - Postman collection to JMeter jmx file converter.
 * [swaggerjmx](https://github.com/Pactortester/swaggerjmx) ⭐ 115 | 🐛 1 | 🌐 Python | 📅 2023-05-15 - Tool to convert Swagger UI specification into JMeter test plans.
-* [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2025-07-15 - Fiddler or Charles to JMeter script convertor.
+* [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2025-07-15 - Fiddler or Charles to JMeter script convertor.
 * [har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2026-02-04 - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
 * [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2026-02-02 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
 * [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 11 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
@@ -264,7 +264,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
     * [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351-jmeter-3-3/) - Monitor JMeter load test in real time with InfluxDB and Grafana (by adrianbanu).
     * [JMeter (via prometheus exporter)](https://grafana.com/grafana/dashboards/2492-jmeter/) - A Grafana dashboard to inspect JMeter metrics via Prometheus exporter (by chiabre).
 * Prometheus
-  * [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) ⭐ 185 | 🐛 36 | 🌐 Java | 📅 2023-08-03 - A Prometheus Listener for Apache JMeter that exposes results in HTTP API.
+  * [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) ⭐ 186 | 🐛 36 | 🌐 Java | 📅 2023-08-03 - A Prometheus Listener for Apache JMeter that exposes results in HTTP API.
   * [jmeter-prometheus-listener](https://github.com/kolesnikovm/jmeter-prometheus-listener) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2023-03-01 - Apache JMeter Backend Listener implementation for Prometheus metrics exporting.
   * [ulp-observability-plugin](https://github.com/ubikingenierie/ulp-observability-plugin) ⭐ 6 | 🐛 4 | 🌐 HTML | 📅 2023-10-13 - Allows you to monitor your JMeter CLI performance test from your favorite browser without having to start JMeter in GUI mode.
 * Backend Listener Implementations
