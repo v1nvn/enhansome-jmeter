@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,496 | 🐛 70 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,721 | 🐛 71 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,227 | 🐛 935 | 🌐 Java | 📅 2026-02-12 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,228 | 🐛 935 | 🌐 Java | 📅 2026-02-12 - Apache JMeter source code repository.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
@@ -117,7 +117,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### DSL
 
 * [pymeter](https://github.com/eldaduzman/pymeter) ⭐ 142 | 🐛 6 | 🌐 Python | 📅 2023-12-05 - Simple JMeter performance tests API for Python.
-* [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) ⭐ 39 | 🐛 17 | 🌐 Java | 📅 2026-02-01 - Simple wrapper for JMeter to write and execute JMeter tests with Java.
+* [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) ⭐ 39 | 🐛 17 | 🌐 Java | 📅 2026-02-15 - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 * [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) ⭐ 14 | 🐛 2 | 🌐 Groovy | 📅 2024-05-30 - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 * [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple Java API to run JMeter performance tests in an VCS and programmers friendly way.
 * [jmeter-dotnet-dsl](https://abstracta.github.io/jmeter-dotnet-dsl/) - Simple .Net API to run JMeter performance tests in an VCS and programmers friendly way.
@@ -140,7 +140,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [swaggerjmx](https://github.com/Pactortester/swaggerjmx) ⭐ 115 | 🐛 1 | 🌐 Python | 📅 2023-05-15 - Tool to convert Swagger UI specification into JMeter test plans.
 * [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2025-07-15 - Fiddler or Charles to JMeter script convertor.
 * [har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2026-02-04 - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
-* [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2026-02-02 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
+* [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 1 | 🌐 Java | 📅 2026-02-16 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
 * [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 11 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
 
 ## CI
@@ -462,8 +462,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,310 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,201 | 🐛 6 | 📅 2026-02-14 - A curated list of testing resources.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 742 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,201 | 🐛 2 | 📅 2026-02-15 - A curated list of testing resources.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-01-05 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 77 | 🐛 0 | 📅 2026-01-16 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-01-03 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
