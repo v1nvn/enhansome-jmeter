@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,721 | 🐛 71 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,923 | 🐛 71 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -462,7 +462,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,310 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,201 | 🐛 2 | 📅 2026-02-15 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,202 | 🐛 3 | 📅 2026-02-15 - A curated list of testing resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-01-05 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 77 | 🐛 0 | 📅 2026-01-16 - Open-source load and performance testing framework based on Scala, Akka and Netty.
@@ -470,8 +470,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Other
 
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 232 | 🐛 0 | 📅 2025-12-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 149 | 🐛 0 | 📅 2025-12-01 - A curated collection of publicly available resources on how companies around the world perform load testing.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 233 | 🐛 0 | 📅 2026-02-16 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 150 | 🐛 0 | 📅 2025-12-01 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
 
