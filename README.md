@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 443,494 | 🐛 73 | 📅 2026-03-04 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,231 | 🐛 936 | 🌐 Java | 📅 2026-02-12 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,252 | 🐛 939 | 🌐 Java | 📅 2026-03-02 - Apache JMeter source code repository.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
@@ -116,7 +116,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### DSL
 
-* [pymeter](https://github.com/eldaduzman/pymeter) ⭐ 142 | 🐛 6 | 🌐 Python | 📅 2023-12-05 - Simple JMeter performance tests API for Python.
+* [pymeter](https://github.com/eldaduzman/pymeter) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2023-12-05 - Simple JMeter performance tests API for Python.
 * [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) ⭐ 39 | 🐛 17 | 🌐 Java | 📅 2026-02-15 - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 * [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) ⭐ 14 | 🐛 2 | 🌐 Groovy | 📅 2024-05-30 - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 * [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple Java API to run JMeter performance tests in an VCS and programmers friendly way.
@@ -128,8 +128,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,946 | 🐛 47 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
-* [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 415 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,988 | 🐛 51 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 413 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 * [Carrier](https://github.com/carrier-io) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
@@ -139,8 +139,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [postman2jmx](https://github.com/Loadium/postman2jmx) ⭐ 190 | 🐛 15 | 🌐 Java | 📅 2023-10-15 - Postman collection to JMeter jmx file converter.
 * [swaggerjmx](https://github.com/Pactortester/swaggerjmx) ⭐ 115 | 🐛 1 | 🌐 Python | 📅 2023-05-15 - Tool to convert Swagger UI specification into JMeter test plans.
 * [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2025-07-15 - Fiddler or Charles to JMeter script convertor.
-* [har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2026-02-04 - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
-* [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 1 | 🌐 Java | 📅 2026-02-16 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
+* [har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2026-02-24 - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
+* [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 1 | 🌐 Java | 📅 2026-03-02 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
 * [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 11 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
 
 ## CI
@@ -190,7 +190,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
     * [Performance Testing in the Cloud with JMeter & AWS](https://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
     * [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
   * Kubernetes
-    * [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) ⭐ 366 | 🐛 22 | 🌐 Shell | 📅 2024-04-30 - JMeter cluster support for Kubernetes and OpenShift.
+    * [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) ⭐ 367 | 🐛 22 | 🌐 Shell | 📅 2024-04-30 - JMeter cluster support for Kubernetes and OpenShift.
     * [kangal](https://github.com/hellofresh/kangal) ⭐ 172 | 🐛 21 | 🌐 Go | 📅 2026-01-29 - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
     * [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) ⭐ 91 | 🐛 0 | 🌐 Shell | 📅 2025-04-24 - JMeter Kubernetes starter kit, with live test reporting, JMeter monitoring, Kubernetes monitoring and mock as a service.
     * [aks\_testing\_fwk](https://github.com/petegrimsdale/aks_testing_fwk) ⭐ 37 | 🐛 1 | 🌐 Shell | 📅 2020-08-24 - AKS-based scalable JMeter test framework with Grafana reporting.
@@ -229,7 +229,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 151 | 🐛 1 | 🌐 Python | 📅 2025-07-16 - Online reporting application to generate reports by uploading JTL file.
+* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 150 | 🐛 1 | 🌐 Python | 📅 2025-07-16 - Online reporting application to generate reports by uploading JTL file.
 * [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) ⚠️ Archived - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 * SLA and KPIs
   * [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) ⭐ 39 | 🐛 1 | 🌐 HTML | 📅 2021-04-23 - JMeter HTML report generator based on JAMon.
@@ -268,18 +268,18 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   * [jmeter-prometheus-listener](https://github.com/kolesnikovm/jmeter-prometheus-listener) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2023-03-01 - Apache JMeter Backend Listener implementation for Prometheus metrics exporting.
   * [ulp-observability-plugin](https://github.com/ubikingenierie/ulp-observability-plugin) ⭐ 6 | 🐛 4 | 🌐 HTML | 📅 2023-10-13 - Allows you to monitor your JMeter CLI performance test from your favorite browser without having to start JMeter in GUI mode.
 * Backend Listener Implementations
-  * [jmeter-influxdb2-listener-plugin](https://github.com/mderevyankoaqa/jmeter-influxdb2-listener-plugin) ⭐ 133 | 🐛 51 | 🌐 Java | 📅 2024-08-09 - InfluxDB v2.0 listener plugin for Apache JMeter.
-  * [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) ⭐ 100 | 🐛 20 | 🌐 Java | 📅 2024-03-11 - JMeter plugin to send test results to an Elasticsearch engine.
+  * [jmeter-influxdb2-listener-plugin](https://github.com/mderevyankoaqa/jmeter-influxdb2-listener-plugin) ⭐ 134 | 🐛 51 | 🌐 Java | 📅 2024-08-09 - InfluxDB v2.0 listener plugin for Apache JMeter.
+  * [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) ⭐ 99 | 🐛 20 | 🌐 Java | 📅 2024-03-11 - JMeter plugin to send test results to an Elasticsearch engine.
   * [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) ⭐ 32 | 🐛 7 | 🌐 Java | 📅 2023-04-21 - JMeter plugin to send test results to Azure Application Insights.
   * [jmeter-backend-listener-kafka](https://github.com/veeranalyticsltd/jmeter-backend-listener-kafka) ⭐ 32 | 🐛 6 | 🌐 Java | 📅 2022-05-20 - JMeter plugin to send test results to a Kafka server.
+  * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 10 | 🌐 Java | 📅 2026-03-03 - Send JMeter test results to Datadog.
   * [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) ⚠️ Archived - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
-  * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 11 | 🌐 Java | 📅 2026-02-13 - Send JMeter test results to Datadog.
   * [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) ⭐ 9 | 🐛 8 | 🌐 Java | 📅 2024-04-29 - A JMeter plugin to send test results to New Relic Metrics API.
   * [jmeter-listener](https://gitlab.com/testload/jmeter-listener) - JMeter plugin to write load test data on-the-fly to ClickHouse, InfluxDB, Elasticsearch.
 * AWS CloudWatch
   * [jmeter-cw-logs](https://github.com/concurrencylabs/jmeter-cw-logs) ⭐ 10 | 🐛 1 | 📅 2016-10-20 - CloudFormation template for publishing JMeter test results to AWS CloudWatch Logs.
 * ELK Stack
-  * [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) ⭐ 8 | 🐛 3 | 🌐 Shell | 📅 2026-02-03 - Parse JTL result with Docker and Logstash in real time or after test end, and send data to Elasticsearch or InfluxDB, to have a nice dashboard and compare different tests.
+  * [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) ⭐ 7 | 🐛 6 | 🌐 Shell | 📅 2026-03-05 - Parse JTL result with Docker and Logstash in real time or after test end, and send data to Elasticsearch or InfluxDB, to have a nice dashboard and compare different tests.
   * [Using ELK](https://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
   * [JMeter + Elasticsearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - Using the Elasticsearch Backend listener and Grafana/Kibana to monitor results in real time.
 * Custom & Deprecated
@@ -299,7 +299,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 * [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://web.archive.org/web/20210918113142/https://www.realeyes.com/blog/wowza-streaming/)
 * [How to Test Video Streaming with JMeter](https://www.blazemeter.com/blog/video-streaming-testing)
-* [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin) ⭐ 49 | 🐛 15 | 🌐 Java | 📅 2026-01-26
+* [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin) ⭐ 49 | 🐛 15 | 🌐 Java | 📅 2026-03-02
 
 ### Mobile Apps
 
@@ -312,7 +312,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### RPC Frameworks
 
-* [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) ⭐ 570 | 🐛 20 | 🌐 Java | 📅 2023-09-21 - JMeter plugin for Apache Dubbo.
+* [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) ⭐ 571 | 🐛 20 | 🌐 Java | 📅 2023-09-21 - JMeter plugin for Apache Dubbo.
 * [JMeter gRPC Request](https://github.com/zalopay-oss/jmeter-grpc-request) ⚠️ Archived - JMeter sampler to send an gRPC request to a server.
 * [JMeter gRPC Plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) ⭐ 45 | 🐛 12 | 🌐 Java | 📅 2023-06-14 - JMeter plugin supports load test gRPC.
 
@@ -462,16 +462,16 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,310 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,203 | 🐛 2 | 📅 2026-02-18 - A curated list of testing resources.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
-* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-01-05 - Open-source scalable load testing framework written in Python.
-* [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 77 | 🐛 0 | 📅 2026-01-16 - Open-source load and performance testing framework based on Scala, Akka and Netty.
-* [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-01-03 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,216 | 🐛 1 | 📅 2026-03-05 - A curated list of testing resources.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-03-01 - Open-source scalable load testing framework written in Python.
+* [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 77 | 🐛 1 | 📅 2026-03-01 - Open-source load and performance testing framework based on Scala, Akka and Netty.
+* [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-03-05 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ### Other
 
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 233 | 🐛 0 | 📅 2026-02-16 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 150 | 🐛 0 | 📅 2025-12-01 - A curated collection of publicly available resources on how companies around the world perform load testing.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 234 | 🐛 0 | 📅 2026-02-16 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 151 | 🐛 0 | 📅 2025-12-01 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
 
