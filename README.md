@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 443,833 | 🐛 75 | 📅 2026-03-04 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 444,209 | 🐛 75 | 📅 2026-03-09 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,254 | 🐛 939 | 🌐 Java | 📅 2026-03-02 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,256 | 🐛 939 | 🌐 Java | 📅 2026-03-02 - Apache JMeter source code repository.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
@@ -128,7 +128,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,991 | 🐛 51 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 12,994 | 🐛 51 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 413 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -140,7 +140,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [swaggerjmx](https://github.com/Pactortester/swaggerjmx) ⭐ 115 | 🐛 1 | 🌐 Python | 📅 2023-05-15 - Tool to convert Swagger UI specification into JMeter test plans.
 * [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2025-07-15 - Fiddler or Charles to JMeter script convertor.
 * [har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2026-02-24 - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
-* [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 1 | 🌐 Java | 📅 2026-03-09 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
+* [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2026-03-09 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
 * [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 11 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
 
 ## CI
@@ -218,7 +218,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
 * [OpenText Core Performance Engineering](https://www.opentext.com/products/saas/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 * [Loadium](https://loadium.com/) - AWS-based load testing service with JMeter and Selenium support.
-* [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
+* [Azure Microsoft](https://azure.microsoft.com/en-us/products/app-testing/) - Azure Load Testing Service use Apache JMeter.
 
 ## Results Processing
 
@@ -272,7 +272,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   * [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) ⭐ 99 | 🐛 20 | 🌐 Java | 📅 2024-03-11 - JMeter plugin to send test results to an Elasticsearch engine.
   * [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) ⭐ 32 | 🐛 7 | 🌐 Java | 📅 2023-04-21 - JMeter plugin to send test results to Azure Application Insights.
   * [jmeter-backend-listener-kafka](https://github.com/veeranalyticsltd/jmeter-backend-listener-kafka) ⭐ 32 | 🐛 6 | 🌐 Java | 📅 2022-05-20 - JMeter plugin to send test results to a Kafka server.
-  * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 9 | 🌐 Java | 📅 2026-03-08 - Send JMeter test results to Datadog.
+  * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 10 | 🌐 Java | 📅 2026-03-10 - Send JMeter test results to Datadog.
   * [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) ⚠️ Archived - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
   * [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) ⭐ 9 | 🐛 8 | 🌐 Java | 📅 2024-04-29 - A JMeter plugin to send test results to New Relic Metrics API.
   * [jmeter-listener](https://gitlab.com/testload/jmeter-listener) - JMeter plugin to write load test data on-the-fly to ClickHouse, InfluxDB, Elasticsearch.
@@ -296,7 +296,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Streaming Protocols
 
-* [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
+* [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 * [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://web.archive.org/web/20210918113142/https://www.realeyes.com/blog/wowza-streaming/)
 * [How to Test Video Streaming with JMeter](https://www.blazemeter.com/blog/video-streaming-testing)
 * [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin) ⭐ 49 | 🐛 15 | 🌐 Java | 📅 2026-03-02
@@ -334,7 +334,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 * [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) ⭐ 28 | 🐛 21 | 🌐 Java | 📅 2025-04-17 - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
 * [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-01-26 - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time ❄️.
-* [ULP Auto-correlator Plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
+* [ULP Auto-correlator Plugin](https://ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
 
 ### Extending JMeter
 
@@ -382,7 +382,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## JMeter Performance
 
 * [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) - Evolution of JMeter performance across versions.
-* [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - By Ubik Ingenierie.
+* [JMeter Performance and Tuning Tips](https://ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - By Ubik Ingenierie.
 * How to speed up JMeter: [part 1](https://pflb.us/blog/how-to-speed-up-jmeter-part-1/), [part 2](https://pflb.us/blog/how-to-speed-up-jmeter-part-2/)
 
 ## Tips & Tricks
@@ -411,7 +411,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [BlazeMeter University](https://www.blazemeter.com/university) - By BlazeMeter.
 * [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 * [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
-* [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
+* [Training courses on Load Testing with Apache JMeter](https://ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
 * [Apache JMeter Training](https://qainsights.com/apache-jmeter-training/) - By QAInsights.
 * [JMeter Getting Started Course (Apr 2019)](https://www.pluralsight.com/courses/jmeter-getting-started) - By Pluralsight.
 
@@ -426,7 +426,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Blogs
 
 * [BlazeMeter Blog](https://www.blazemeter.com/blog) - BlazeMeter's blog about JMeter and performance testing.
-* [Ubik Load Pack Blog](https://www.ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
+* [Ubik Load Pack Blog](https://ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 * [TestAutomationGuru Blog](https://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 * [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 * [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
@@ -462,8 +462,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,311 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,216 | 🐛 1 | 📅 2026-03-05 - A curated list of testing resources.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,217 | 🐛 1 | 📅 2026-03-05 - A curated list of testing resources.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 5 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-03-01 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 77 | 🐛 1 | 📅 2026-03-01 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-03-05 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
