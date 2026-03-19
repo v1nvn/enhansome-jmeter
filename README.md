@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 446,445 | 🐛 83 | 📅 2026-03-09 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 446,762 | 🐛 84 | 📅 2026-03-09 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,273 | 🐛 945 | 🌐 Java | 📅 2026-03-02 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,276 | 🐛 945 | 🌐 Java | 📅 2026-03-18 - Apache JMeter source code repository.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
@@ -128,7 +128,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,010 | 🐛 54 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,017 | 🐛 53 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 413 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -141,7 +141,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2025-07-15 - Fiddler or Charles to JMeter script convertor.
 * [har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2026-02-24 - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
 * [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2026-03-16 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
-* [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 11 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
+* [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 13 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
 
 ## CI
 
@@ -264,7 +264,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
     * [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351-jmeter-3-3/) - Monitor JMeter load test in real time with InfluxDB and Grafana (by adrianbanu).
     * [JMeter (via prometheus exporter)](https://grafana.com/grafana/dashboards/2492-jmeter/) - A Grafana dashboard to inspect JMeter metrics via Prometheus exporter (by chiabre).
 * Prometheus
-  * [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) ⭐ 186 | 🐛 36 | 🌐 Java | 📅 2023-08-03 - A Prometheus Listener for Apache JMeter that exposes results in HTTP API.
+  * [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) ⭐ 187 | 🐛 36 | 🌐 Java | 📅 2023-08-03 - A Prometheus Listener for Apache JMeter that exposes results in HTTP API.
   * [jmeter-prometheus-listener](https://github.com/kolesnikovm/jmeter-prometheus-listener) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2023-03-01 - Apache JMeter Backend Listener implementation for Prometheus metrics exporting.
   * [ulp-observability-plugin](https://github.com/ubikingenierie/ulp-observability-plugin) ⭐ 6 | 🐛 4 | 🌐 HTML | 📅 2023-10-13 - Allows you to monitor your JMeter CLI performance test from your favorite browser without having to start JMeter in GUI mode.
 * Backend Listener Implementations
@@ -462,7 +462,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,311 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,222 | 🐛 1 | 📅 2026-03-14 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,223 | 🐛 1 | 📅 2026-03-14 - A curated list of testing resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 745 | 🐛 4 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-03-13 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 77 | 🐛 0 | 📅 2026-03-10 - Open-source load and performance testing framework based on Scala, Akka and Netty.
