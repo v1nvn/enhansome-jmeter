@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 447,704 | 🐛 86 | 📅 2026-03-09 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 448,031 | 🐛 88 | 📅 2026-03-09 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,283 | 🐛 938 | 🌐 Java | 📅 2026-03-21 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,286 | 🐛 941 | 🌐 Java | 📅 2026-03-22 - Apache JMeter source code repository.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
@@ -128,7 +128,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,027 | 🐛 56 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,028 | 🐛 56 | 🌐 Java | 📅 2026-02-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 413 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 203 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -141,7 +141,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2025-07-15 - Fiddler or Charles to JMeter script convertor.
 * [har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2026-02-24 - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
 * [JMeter HAR Importer Plugin](https://github.com/Qytera-Gmbh/JMeterHARImporterPlugin) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2026-03-16 - JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.
-* [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 13 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
+* [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) ⭐ 14 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 - Convert Postman projects to JMeter.
 
 ## CI
 
