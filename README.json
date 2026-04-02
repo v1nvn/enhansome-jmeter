@@ -104,7 +104,7 @@
             "last_commit": "2026-03-31T05:49:38Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13055
+            "stars": 13058
           }
         },
         {
@@ -1028,7 +1028,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-03-29T14:59:01Z",
+                "last_commit": "2026-04-02T00:57:45Z",
                 "owner": "DataDog",
                 "repo": "jmeter-datadog-backend-listener",
                 "stars": 13
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-03-29T21:43:52Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2232
+            "stars": 2233
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:52:26.251Z",
+    "last_updated": "2026-04-02T04:35:51.497Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
