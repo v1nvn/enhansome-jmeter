@@ -104,7 +104,7 @@
             "last_commit": "2026-03-31T05:49:38Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13058
+            "stars": 13061
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2025-01-03T19:17:10Z",
             "owner": "jmeter-maven-plugin",
             "repo": "jmeter-maven-plugin",
-            "stars": 437
+            "stars": 438
           }
         },
         {
@@ -1369,7 +1369,7 @@
             "last_commit": "2026-02-16T18:33:36Z",
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
-            "stars": 236
+            "stars": 237
           }
         }
       ],
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:35:51.497Z",
+    "last_updated": "2026-04-03T04:36:08.179Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
