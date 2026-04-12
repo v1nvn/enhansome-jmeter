@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 453,984 | 🐛 59 | 📅 2026-04-02 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 454,333 | 🐛 60 | 📅 2026-04-02 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -128,7 +128,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,088 | 🐛 42 | 🌐 Java | 📅 2026-03-31 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,089 | 🐛 42 | 🌐 Java | 📅 2026-03-31 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 414 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -229,7 +229,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 151 | 🐛 1 | 🌐 Python | 📅 2025-07-16 - Online reporting application to generate reports by uploading JTL file.
+* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 151 | 🐛 1 | 🌐 Python | 📅 2026-04-11 - Online reporting application to generate reports by uploading JTL file.
 * [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) ⚠️ Archived - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 * SLA and KPIs
   * [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) ⭐ 39 | 🐛 1 | 🌐 HTML | 📅 2021-04-23 - JMeter HTML report generator based on JAMon.
