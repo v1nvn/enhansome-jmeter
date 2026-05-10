@@ -38,7 +38,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-03T19:33:13Z",
+            "last_commit": "2026-05-09T15:03:16Z",
             "owner": "anasoid",
             "repo": "jmeter-as-code",
             "stars": 39
@@ -104,7 +104,7 @@
             "last_commit": "2026-03-31T05:49:38Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13171
+            "stars": 13172
           }
         },
         {
@@ -789,7 +789,7 @@
                 "last_commit": "2023-06-15T17:29:23Z",
                 "owner": "influxdata",
                 "repo": "community-templates",
-                "stars": 370
+                "stars": 371
               }
             },
             {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-04-22T22:12:15Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2265
+            "stars": 2264
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:27:34.437Z",
+    "last_updated": "2026-05-10T05:43:14.323Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
