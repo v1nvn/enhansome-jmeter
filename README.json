@@ -104,7 +104,7 @@
             "last_commit": "2026-03-31T05:49:38Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13184
+            "stars": 13191
           }
         },
         {
@@ -1201,7 +1201,7 @@
             "last_commit": "2023-09-21T06:29:20Z",
             "owner": "thubbo",
             "repo": "jmeter-plugins-for-apache-dubbo",
-            "stars": 570
+            "stars": 571
           }
         }
       ],
@@ -1282,10 +1282,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-12T16:51:15Z",
+            "last_commit": "2026-05-14T18:08:45Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2265
+            "stars": 2266
           }
         },
         {
@@ -1356,7 +1356,7 @@
             "last_commit": "2025-12-01T17:09:06Z",
             "owner": "aliesbelik",
             "repo": "how-they-load",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:54:02.535Z",
+    "last_updated": "2026-05-15T06:00:50.471Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
