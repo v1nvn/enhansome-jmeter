@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-31T05:49:38Z",
+            "last_commit": "2026-05-19T03:17:11Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13194
+            "stars": 13197
           }
         },
         {
@@ -789,7 +789,7 @@
                 "last_commit": "2023-06-15T17:29:23Z",
                 "owner": "influxdata",
                 "repo": "community-templates",
-                "stars": 371
+                "stars": 373
               }
             },
             {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:21:25.472Z",
+    "last_updated": "2026-05-19T06:16:28.002Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
