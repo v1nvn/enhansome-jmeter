@@ -104,7 +104,7 @@
             "last_commit": "2026-05-19T03:17:11Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13204
+            "stars": 13210
           }
         },
         {
@@ -389,7 +389,7 @@
                     "last_commit": "2024-04-30T11:41:47Z",
                     "owner": "kubernauts",
                     "repo": "jmeter-kubernetes",
-                    "stars": 366
+                    "stars": 365
                   }
                 },
                 {
@@ -440,7 +440,7 @@
                 "last_commit": "2024-04-30T11:41:47Z",
                 "owner": "kubernauts",
                 "repo": "jmeter-kubernetes",
-                "stars": 366
+                "stars": 365
               }
             },
             {
@@ -571,7 +571,7 @@
             "last_commit": "2024-04-30T11:41:47Z",
             "owner": "kubernauts",
             "repo": "jmeter-kubernetes",
-            "stars": 366
+            "stars": 365
           }
         }
       ],
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-05-14T18:08:45Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2266
+            "stars": 2269
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:16:02.942Z",
+    "last_updated": "2026-05-21T06:17:10.848Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
