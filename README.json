@@ -104,7 +104,7 @@
             "last_commit": "2026-05-19T03:17:11Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13221
+            "stars": 13223
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "last_commit": "2023-02-01T15:23:18Z",
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2313
+            "stars": 2312
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-05-14T18:08:45Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2271
+            "stars": 2272
           }
         },
         {
@@ -1356,7 +1356,7 @@
             "last_commit": "2025-12-01T17:09:06Z",
             "owner": "aliesbelik",
             "repo": "how-they-load",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T06:08:40.994Z",
+    "last_updated": "2026-05-25T06:42:38.156Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
