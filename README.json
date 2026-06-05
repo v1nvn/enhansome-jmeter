@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-25T07:26:15Z",
+            "last_commit": "2026-06-05T01:06:15Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13253
+            "stars": 13252
           }
         },
         {
@@ -455,7 +455,7 @@
                     "last_commit": "2019-06-24T21:29:49Z",
                     "owner": "oliverlloyd",
                     "repo": "jmeter-ec2",
-                    "stars": 460
+                    "stars": 461
                   }
                 },
                 {
@@ -521,7 +521,7 @@
                 "last_commit": "2019-06-24T21:29:49Z",
                 "owner": "oliverlloyd",
                 "repo": "jmeter-ec2",
-                "stars": 460
+                "stars": 461
               }
             },
             {
@@ -1201,7 +1201,7 @@
             "last_commit": "2023-09-21T06:29:20Z",
             "owner": "thubbo",
             "repo": "jmeter-plugins-for-apache-dubbo",
-            "stars": 571
+            "stars": 570
           }
         }
       ],
@@ -1272,7 +1272,7 @@
             "last_commit": "2023-02-01T15:23:18Z",
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2312
+            "stars": 2313
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-05-27T16:02:56Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2279
+            "stars": 2280
           }
         },
         {
@@ -1369,7 +1369,7 @@
             "last_commit": "2026-06-04T01:40:44Z",
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
-            "stars": 241
+            "stars": 242
           }
         }
       ],
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:50:37.237Z",
+    "last_updated": "2026-06-05T06:39:16.281Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
