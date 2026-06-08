@@ -104,7 +104,7 @@
             "last_commit": "2026-06-05T01:06:15Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13253
+            "stars": 13255
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-02-24T10:25:25Z",
             "owner": "vdaburon",
             "repo": "har-convertor-jmeter-plugin",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "last_commit": "2023-02-01T15:23:18Z",
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2314
+            "stars": 2313
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-06-06T17:21:18Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2282
+            "stars": 2283
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:37:47.973Z",
+    "last_updated": "2026-06-08T06:53:35.630Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
