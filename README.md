@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 474,402 | 🐛 81 | 📅 2026-06-02 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 474,685 | 🐛 81 | 📅 2026-06-02 project and improved by these [amazing contributors](origin/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -129,7 +129,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,260 | 🐛 1 | 🌐 Java | 📅 2026-06-05 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,267 | 🐛 1 | 🌐 Java | 📅 2026-06-11 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 416 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -467,8 +467,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,313 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,286 | 🐛 3 | 📅 2026-06-09 - A curated list of testing resources.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 763 | 🐛 3 | 📅 2026-06-03 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,287 | 🐛 4 | 📅 2026-06-09 - A curated list of testing resources.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 765 | 🐛 3 | 📅 2026-06-03 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-03-13 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 79 | 🐛 0 | 📅 2026-06-08 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-03-05 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
