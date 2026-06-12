@@ -54,7 +54,7 @@
             "last_commit": "2023-12-05T13:18:43Z",
             "owner": "eldaduzman",
             "repo": "pymeter",
-            "stars": 138
+            "stars": 136
           }
         }
       ],
@@ -1272,7 +1272,7 @@
             "last_commit": "2023-02-01T15:23:18Z",
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2313
+            "stars": 2314
           }
         },
         {
@@ -1282,7 +1282,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-09T22:51:22Z",
+            "last_commit": "2026-06-11T23:34:02Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
             "stars": 2287
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:57:24.056Z",
+    "last_updated": "2026-06-12T06:50:30.502Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
