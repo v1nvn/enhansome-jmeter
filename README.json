@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-11T01:23:13Z",
+            "last_commit": "2026-06-12T07:28:33Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13267
+            "stars": 13269
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-06-11T23:34:02Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2287
+            "stars": 2288
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:50:30.502Z",
+    "last_updated": "2026-06-13T06:23:52.782Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "source_repository": "v1nvn/enhansome-jmeter",
     "source_repository_description": null,
